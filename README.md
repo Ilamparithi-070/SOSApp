@@ -1,7 +1,7 @@
 
 # SOS App
 > An emergency SOS application to alert the  emergency contacts and/or police with live location sharing.
-> App demo [_here_]([https://www.youtube.com/watch?v=M00BPB6yHPQ](https://www.youtube.com/watch?v=M00BPB6yHPQ)). <!-- If you have the project hosted somewhere, include the link here. -->
+> App demo [_here_]: https://youtu.be/M00BPB6yHPQ. <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
